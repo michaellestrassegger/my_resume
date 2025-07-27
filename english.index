@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My resume</title>
+</head>
+<body>
+  <header>
+    <button onclick="window.location.href='/de/index.html'">Deutsch</button>
+  </header>
+  <h1>My resume</h1>
+  <p>Hi, I'm a mother of two and I want to work as an coder soon. So I'm working on my programming scills. Everything I am working on, you can see here on my web resume.</p>
+  <h2>Personal information</h2>
+   <img src="images/myfoto.jpeg" alt="Foto of me">
+  <ul>
+    <li>Come from Austria</li>
+    <li>Married - two kids</li>
+  </ul>
+  
+  <h2>Education</h2>
+  <ul>
+    <li>Volksschule 2001-2005</li>
+    <li>Hauptschule 2005-2009</li>
+    <li>Tourismusschulen 2009-2010</li>
+    <li>HLW 2010-2012</li>
+    <li>Berufsschule je 2 Monate SJ 2012/2013 und 2013/2014</li>
+  </ul>
+
+  <h2>Work experience</h2>
+  <ul>
+    <li>Casual Job at a hotel***s summer 2011</li>
+    <li>Trainee at a hotel***** 2012-2014</li>
+    <li>Apprenticeship exchange for 1 month 2014</li>
+    <li>Hotel and hospitality assistant at a hotel***** 2014-2015</li>
+    <li>Working at a dance club 2015</li>
+    <li>Hotel and hospitality assistant at a hotel****s 2015</li>
+    <li>Mail woman 2016-2018</li>
+    <li>Maternity leave 2018</li>
+    <li>Employee at a car dealership 2024</li>
+  </ul>
+
+  <h2>Sucesses</h2>
+  <ul>
+    <li>sfa Sprachreisen - Englischkurs (english course)</li>
+    <li>Landeslehrlingsmeisterschaft 2013 - first place for hotel and hospitality assistent</li>
+    <li>Staatsmeisterschaft 2013 participated</li>
+  </ul>
+
+  <h2>Languages</h2>
+  <ul>
+    <li>Deutsch mother tongue</li>
+    <li>English very good at speaking and writing</li>
+    <li>French school knowledge (4 years)</li>
+    <li>Italian school knowledge (1 year and 1 course)</li>
+    <li>Spanish private course (6 months)</li>
+  </ul>
+  
+  <h2>Programming scills</h2>
+  <ul>
+    <li>HTML & CSS</li>
+    <!-- weitere hinzufügen -->
+  </ul>
+
+  <h2>Projects</h2>
+  <ul>
+    <li>This website for my resume</li>
+    <li>...New projects would follow soon...</li>
+  </ul>
+
+  <h2>Other skills</h2>
+  <ul>
+    <li>driving licence B (Austria)</li>
+    <li>swim licence "Allrounder"</li>
+    <li>Good skills at Micosoft Office</li>
+    <li>Very good at spelling</li>
+  </ul>
+
+  <h2>Hobbies</h2>
+  <ul>
+    <li>Verious sports like cycling, swimming, hiking, klimbing, lifting</li>
+    <li>Bookkeeping of the household account</li>
+    <li>LEARNING TO CODE</li>
+  </ul>
+</body>
+</html>
